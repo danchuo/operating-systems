@@ -13,7 +13,7 @@ int main()
   int new = 1;
   long i;
 
-  char pathname[] = "09-2a.c";
+  char pathname[] = "2a.c";
   key_t key;
 
   int semid;
