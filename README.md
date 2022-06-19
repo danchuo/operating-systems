@@ -1,2 +1,1 @@
-Выполняет задания:
-Соломонов Данила Олегович, БПИ203
+Completed assignments for the course "Operating Systems", 2021-2022
